@@ -61,3 +61,4 @@ Here are the parameters that can be modified:
 - Melina Cherchali
 - Ines deRiedmatten
 
+![MIcMap Logo](https://wp.unil.ch/mic-map/files/2022/01/cropped-2-MicrostructureMappingLab-01.png)
