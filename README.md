@@ -21,17 +21,6 @@ CATERPillar is a tool that generates white matter numerical phantoms by mimickin
 
 ## Getting Started
 ### Installation
-#### MacOS
-To install the dependencies on MacOS, follow these steps:
-1. Open a terminal.
-2. Type the following command and press Enter:
-   ```shell
-   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-   ```
-3. Once Homebrew is installed, run the following command to install freeglut:
-   ```shell
-   brew install freeglut
-   ```
 
 #### Linux
 To install the dependencies on Linux, follow these steps:
@@ -48,18 +37,6 @@ To install the dependencies on Linux, follow these steps:
    ```
 
 ### Running the Program
-#### MacOS
-To run the program on MacOS, follow these steps:
-1. Modify the `compiler_mac.sh` file and update the following line to the path that leads to the `src` folder on your local machine:
-   ```shell
-   cd "/home/localadmin/Documents/Sim_Growth/src/"
-   ```
-2. Adapt the `args.conf` file to your preference.
-3. In the terminal, navigate to the folder containing the program.
-4. Run the following command to compile and run the program:
-   ```shell
-   ./run_mac.sh
-   ```
 
 #### Linux
 To run the program on Linux, follow the same steps as mentioned in the "Running the Program" section for Linux.
@@ -79,7 +56,7 @@ Here are the parameters that can be modified:
   - `beading_frequency` (double): Frequency of axonal beading (= 1/nbr of spheres)
 - Other Parameters :
   - `vox_sizes` (list of int): The maximum distance (in micrometers) in space to define the corner of the 3D box to work in.
-  - `draw` (0 or 1): If set to 1, the voxel will be drawn with all the growing axons. If so, no output with the axons' information will be created.
+  - `draw` (0 or 1): If set to 1, the voxel will be drawn with all the growing axons. If so, no output with the axons' information will be created. Because the code isn't yet public, draw is set to 1 regardless of your input.
   - `regrow_thr` (int): If the amount of regrowing attempts during which no new axons are made is above the chosen threshold, the growth process stops.
   - `spheres_overlap_factors` (list of int, must be above 2): The distance between spheres in each axon is the radius/spheres_overlap_factor.
   - `icvf` (double between 0 and 1): Intra Compartment Volume Fraction.
