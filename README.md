@@ -49,11 +49,10 @@ Here are the parameters that can be modified:
   - `std_dev` (double): Standard deviation of the Gaussian distribution for growth. The higher this value, the more tortuous the axons ! 
   - `beading_variation` (double between 0 and 1): The radius of each axon will vary periodically between the original radius and radius/beading_variation. If set to 1, there will be no beading.
   - `beading_frequency` (double): Frequency of axonal beading (= 1/nbr of spheres)
-- Other Parameters :
+- Other Parameters (These values are lists, if you want to put in multiple values, create a new line to do so. If there are more than one value in each list, the video will repeat itself after the first one to perform again according to the next values):
   - `vox_sizes` (list of int): The maximum distance (in micrometers) in space to define the corner of the 3D box to work in.
   - `icvf` (list of double between 0 and 1): Intra Compartment Volume Fraction.
   - `capacities` (list of int, must be below the number of processors available on the computer): Number of parallel threads to grow axons simultaneously.
-  -> These values are lists, if you want to put in multiple values, create a new line to do so. If there are more than one value in each list, the video will repeat itself after the first one to perform again according to the next values.
 
 ## Contributors
 - Jasmine Nguyen-Duc
