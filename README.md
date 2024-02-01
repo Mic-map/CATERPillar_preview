@@ -1,6 +1,6 @@
 # CATERPillar: Computational Axonal Threading Engine for Realistic Proliferation
 
-![CATERPillar Logo]([https://github.com/jazz031195/CATERPillar/blob/updated/caterpillar.jpg](https://github.com/jazz031195/CATERPillar_preview/blob/main/caterpillar.jpg?raw=true))
+![CATERPillar Logo](https://github.com/jazz031195/CATERPillar/blob/updated/caterpillar.jpg)
 
 ## Introduction
 CATERPillar is a tool that generates white matter numerical phantoms by mimicking natural fiber growth. The axons proliferate in parallel towards their target while avoiding collisions with the environment (already existing axons). The phantoms can be used to create synthetic diffusion MRI data with varying parameters.
