@@ -18,7 +18,6 @@ This preview enables the visualisation of this growth by using an executable fil
 - [Authors and Affiliations](#authors-and-affiliations)
 - [Logo](#logo)
 - [Website](#website)
-- [License](#license)
 
 ## Getting Started
 
