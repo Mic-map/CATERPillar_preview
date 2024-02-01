@@ -42,7 +42,7 @@ Follow these steps:
    chmod u+x Growth-Animation.exe
    ./Growth-Animation.exe "path/to/folder/args.conf"
    ```
-A video will then open and you will see axons growing in a substrate. You can stop the viseo at anytime with Ctrl+C. An example of such a video is given.
+A video will then open and you will see axons growing in a substrate. You can stop the video at anytime with Ctrl+C. An example of such a video is given.
    
 ## Parameters
 The parameters that can be modified are listed in the `args.conf` file. Some parameters may have multiple values (written as `<parameter>`) over which the program will iterate. The modified parameter values will appear in the name of the output files.
