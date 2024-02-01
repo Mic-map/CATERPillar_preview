@@ -27,7 +27,7 @@ To install the dependencies on Linux, follow these steps:
 1. Download the executable file and the args.conf file on your local machine.
 2. Open a terminal.
 3. Go to the path that leads to the executable file on your local machine using "cd":
-4. Adapt the `args.conf` file to your preference.
+4. Adapt the `args.conf` file to your preference. The parameters are explained below.
 6. Run the following command to compile and run the program:
    ```shell
    chmod u+x src/Growth-Animation.exe
