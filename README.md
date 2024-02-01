@@ -57,23 +57,6 @@ Here are the parameters that can be modified:
   - `repetitions` (int, must be 1 or above): Number of repetitions to run growth.
   - `std_dev` (double): Standard deviation of the Gaussian distribution for growth.
 
-## Outputs of Program
-The program generates the following output files:
-- Text file: `directory + "/simulation_icvf_" + icvf + "_cap_" + capacity + "_vox_" + vox_size + "_" + repetition + ".txt"`
-  - Duration (in seconds)
-  - Num_axons (number of axons)
-  - Capacity (number of processors)
-  - Voxel (voxel size in micrometers)
-  - icvf (Intra Compartment Volume Fraction reached)
-- SWC file: `directory + "/growth_icvf_" + icvf + "_cap_" + capacity + "_vox_" + vox_size + "_factor_" + factor + "_" + repetition + ".swc"`
-  - Position of each sphere of each axon placed
-  - id_ax: ID of axon
-  - id_sph: ID of sphere
-  - Type: Type of cell (axon)
-  - X Y Z: Coordinates of the center of the sphere in 3D space in micrometers
-  - R: Radius in micrometers
-  - P: ID of parent sphere
-
 ## Contributors
 - Jasmine Nguyen-Duc
 - Melina Cherchali
