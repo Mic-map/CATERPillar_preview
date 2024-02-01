@@ -11,14 +11,15 @@ This preview enables the visualisation of this growth by using an executable fil
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
   - [Installation](#installation)
-    - [MacOS](#macos)
     - [Linux](#linux)
   - [Running the Program](#running-the-program)
-    - [MacOS](#macos-1)
     - [Linux](#linux-1)
 - [Parameters](#parameters)
 - [Outputs of Program](#outputs-of-program)
 - [Contributors](#contributors)
+- [Authors and Affiliations](#authors-and-affiliations)
+- [Logo](#logo)
+- [Website](#website)
 - [License](#license)
 
 ## Getting Started
