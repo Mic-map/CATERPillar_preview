@@ -57,8 +57,14 @@ Here are the parameters that can be modified:
   - `capacities` (list of int, must be below the number of processors available on the computer): Number of parallel threads to grow axons simultaneously.
 
 ## Contributors
-- Jasmine Nguyen-Duc
-- Melina Cherchali
-- Ines deRiedmatten
+
+## Authors and Affiliations
+
+- **Jasmine Nguyen-Duc:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
+- **Melina Cherchali:** École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
+- **Ines deRiedmatten:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
+
+## Logo
 
 ![MIcMap Logo](https://wp.unil.ch/mic-map/files/2022/01/cropped-2-MicrostructureMappingLab-01.png)
+
