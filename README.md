@@ -20,7 +20,7 @@ CATERPillar is a tool that generates white matter numerical phantoms by mimickin
 - [License](#license)
 
 ## Getting Started
-### Installation
+### Running the Program
 
 #### Linux
 To install the dependencies on Linux, follow these steps:
@@ -33,12 +33,7 @@ To install the dependencies on Linux, follow these steps:
    chmod u+x src/Growth-Animation.exe
    ./src/Growth-Animation.exe "path/to/folder/args.conf"
    ```
-
-### Running the Program
-
-#### Linux
-To run the program on Linux, follow the same steps as mentioned in the "Running the Program" section for Linux.
-
+   
 ## Parameters
 The parameters that can be modified are listed in the `args.conf` file. Some parameters may have multiple values (written as `<parameter>`) over which the program will iterate. The modified parameter values will appear in the name of the output files.
 
