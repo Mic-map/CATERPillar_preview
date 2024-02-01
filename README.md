@@ -33,8 +33,8 @@ To install the dependencies on Linux, follow these steps:
 4. Adapt the `args.conf` file to your preference. The parameters are explained below. Modify "data_directory" to the path on your local computer.
 6. Run the following command to compile and run the program:
    ```shell
-   chmod u+x src/Growth-Animation.exe
-   ./src/Growth-Animation.exe "path/to/folder/args.conf"
+   chmod u+x Growth-Animation.exe
+   ./Growth-Animation.exe "path/to/folder/args.conf"
    ```
 A video will then open and you will see axons growing in a substrate. You can stop the viseo at anytime with Ctrl+C. An example of such a video is given.
    
