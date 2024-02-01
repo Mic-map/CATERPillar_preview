@@ -63,8 +63,12 @@ Here are the parameters that can be modified:
 - **Jasmine Nguyen-Duc:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
 - **Melina Cherchali:** École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
 - **Ines deRiedmatten:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
+- **Ileana Jelescu:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
 
 ## Logo
 
 ![MIcMap Logo](https://wp.unil.ch/mic-map/files/2022/01/cropped-2-MicrostructureMappingLab-01.png)
 
+## Website 
+
+https://wp.unil.ch/mic-map/
