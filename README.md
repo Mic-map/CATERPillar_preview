@@ -15,9 +15,9 @@ This preview enables the visualisation of this growth by using an executable fil
 - [Parameters](#parameters)
 - [Outputs of Program](#outputs-of-program)
 - [Contributors](#contributors)
-- [Authors and Affiliations](#authors-and-affiliations)
-- [Logo](#logo)
-- [Website](#website)
+  - [Authors and Affiliations](#authors-and-affiliations)
+  - [Logo](#logo)
+  - [Website](#website)
 
 ## Getting Started
 
@@ -65,17 +65,17 @@ Here are the parameters that can be modified:
 
 ## Contributors
 
-## Authors and Affiliations
+### Authors and Affiliations
 
 - **Jasmine Nguyen-Duc:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
 - **Melina Cherchali:** École Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland
 - **Ines deRiedmatten:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
 - **Ileana Jelescu:** Centre Hospitalier Universitaire Vaudois (CHUV), Lausanne, Switzerland
 
-## Logo
+### Logo
 
 ![MIcMap Logo](https://wp.unil.ch/mic-map/files/2022/01/cropped-2-MicrostructureMappingLab-01.png)
 
-## Website 
+### Website 
 
 https://wp.unil.ch/mic-map/
