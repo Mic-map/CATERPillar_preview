@@ -28,7 +28,7 @@ To run the program, you must first install the SFML (Simple and Fast Multimedia 
   sudo apt update
   sudo apt-get install libsfml-dev
   sudo apt-get install freeglut3-dev
-
+  sudo apt-get install mesa-common-dev
   ```
 
 ### Running the Program
