@@ -5,6 +5,8 @@
 ## Introduction
 CATERPillar is a tool that generates white matter numerical phantoms by mimicking natural fiber growth. The axons proliferate in parallel towards their target while avoiding collisions with the environment (already existing axons). The phantoms can be used to create synthetic diffusion MRI data with varying parameters.
 
+This preview enables the visualisation of this growth by using an executable file, easily run with linux. We hope to publish the code in C++ ASAP ! 
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Getting Started](#getting-started)
