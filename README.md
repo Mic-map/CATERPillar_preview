@@ -23,10 +23,17 @@ This preview enables the visualisation of this growth by using an executable fil
 - [License](#license)
 
 ## Getting Started
+
+### Installations
+To run the program, you must first download a library for SFML in C++. This allows for the visualisation. Run the following command in your terminal : 
+  ```shell
+  sudo apt update
+  sudo apt install libsfml-window2.5
+  ```
+
 ### Running the Program
 
-#### Linux
-To install the dependencies on Linux, follow these steps:
+Follow these steps:
 1. Download the executable file and the args.conf file on your local machine.
 2. Open a terminal.
 3. Go to the path that leads to the executable file on your local machine using "cd":
