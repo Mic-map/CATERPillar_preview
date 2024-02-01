@@ -53,7 +53,7 @@ Here are the parameters that can be modified:
   - `vox_sizes` (list of int): The maximum distance (in micrometers) in space to define the corner of the 3D box to work in.
   - `icvf` (list of double between 0 and 1): Intra Compartment Volume Fraction.
   - `capacities` (list of int, must be below the number of processors available on the computer): Number of parallel threads to grow axons simultaneously.
-  These values are lists, if you want to put in multiple values, create a new line to do so. If there are more than one value in each list, the video will repeat itself after the first one to perform again according to the next values.
+  -> These values are lists, if you want to put in multiple values, create a new line to do so. If there are more than one value in each list, the video will repeat itself after the first one to perform again according to the next values.
 
 ## Contributors
 - Jasmine Nguyen-Duc
