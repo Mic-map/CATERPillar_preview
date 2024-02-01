@@ -33,6 +33,7 @@ To install the dependencies on Linux, follow these steps:
    chmod u+x src/Growth-Animation.exe
    ./src/Growth-Animation.exe "path/to/folder/args.conf"
    ```
+A video will then open and you will see axons growing in a substrate. You can stop the viseo at anytime with Ctrl+C. An example of such a video is given.
    
 ## Parameters
 The parameters that can be modified are listed in the `args.conf` file. Some parameters may have multiple values (written as `<parameter>`) over which the program will iterate. The modified parameter values will appear in the name of the output files.
@@ -56,6 +57,7 @@ Here are the parameters that can be modified:
   - `capacities` (list of int, must be below the number of processors available on the computer): Number of parallel threads to grow axons simultaneously.
   - `repetitions` (int, must be 1 or above): Number of repetitions to run growth.
   - `std_dev` (double): Standard deviation of the Gaussian distribution for growth.
+
 
 ## Contributors
 - Jasmine Nguyen-Duc
