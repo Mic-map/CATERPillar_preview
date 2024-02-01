@@ -25,7 +25,7 @@ This preview enables the visualisation of this growth by using an executable fil
 ## Getting Started
 
 ### Installations
-To run the program, you must first install the SFML (Simple and Fast Multimedia Library) library and the OpenGL Utility Toolkit (GLUT) library. This allows for the visualisation. Run the following command in your terminal : 
+To run the program, you must first install the SFML (Simple and Fast Multimedia Library) library and the OpenGL Utility Toolkit (GLUT) library. This allows for the visualisation. For this, run the following command in your terminal : 
   ```shell
   sudo apt update
   sudo apt-get install libsfml-dev
