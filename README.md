@@ -24,16 +24,14 @@ CATERPillar is a tool that generates white matter numerical phantoms by mimickin
 
 #### Linux
 To install the dependencies on Linux, follow these steps:
-1. Open a terminal.
-2. Modify the `compiler_linux.sh` file and update the following line to the path that leads to the `src` folder on your local machine:
+1. Download the executable file and the args.conf file on your local machine.
+2. Open a terminal.
+3. Go to the path that leads to the executable file on your local machine using "cd":
+4. Adapt the `args.conf` file to your preference.
+6. Run the following command to compile and run the program:
    ```shell
-   cd "/home/localadmin/Documents/Sim_Growth/src/"
-   ```
-3. Adapt the `args.conf` file to your preference.
-4. In the terminal, navigate to the folder containing the program.
-5. Run the following command to compile and run the program:
-   ```shell
-   ./run_linux.sh
+   chmod u+x src/Growth-Animation.exe
+   ./src/Growth-Animation.exe "path/to/folder/args.conf"
    ```
 
 ### Running the Program
